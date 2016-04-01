@@ -15,6 +15,8 @@ def two_sum_to_zero(lst):
 
 two_sum_to_zero([-1,3,4,5,1,-5, 3,0])
 
+# Runtime: O(n)
+
 
 # Extra question
 
@@ -35,6 +37,8 @@ def three_sum_to_zero(lst):
 
 
 three_sum_to_zero([-1,3,-2,4,1,-5,3,0])
+
+# Runtime: O(n^2)
 
 
 ###################### Question 2 #####################################
